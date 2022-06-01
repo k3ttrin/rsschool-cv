@@ -1,3 +1,2 @@
-# Ekaterina Gurianova 
 
 
