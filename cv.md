@@ -34,7 +34,6 @@ multiply();
 
 * **Russian:** Native
 
-
 ![testresult](https://user-images.githubusercontent.com/106684322/171612107-531e649c-ba8b-4dfe-8f92-0401d9f55d5c.png )
 
 
