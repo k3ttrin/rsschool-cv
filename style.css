@@ -1,0 +1,182 @@
+.page {
+  background-color: lightgrey;
+  margin: auto;
+  height: 100px;
+  vertical-align: middle;
+  list-style: none;
+}
+
+.round {
+  border-radius: 100px;
+  border: 3px solid green;
+  box-shadow: 0 0 7px #666;
+  margin: 5% auto;
+  display: block;
+  width: 40%;
+}
+
+
+.container {
+  display: flex;
+  margin: auto;
+  text-align: justify;
+}
+
+.box {
+  display: inline-block;
+  margin: auto;
+  font: 24px/24px Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  padding-top: 1%;
+}
+
+.menu-list {
+  text-decoration: none;
+  list-style: none;
+}
+
+.link-menu {
+  color: black;
+  text-decoration: none;
+}
+
+
+.left {
+  position: relative;
+  margin: 1%;
+  width: 40%;
+  align-content: center;
+  white-space: normal;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.right {
+  position: relative;
+  white-space: normal;
+  max-width: 55%;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  justify-content: center;
+}
+
+.text {
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  font: 14px/30px Arial, Helvetica, sans-serif;
+  padding: 10px;
+  list-style-position: inside;
+}
+
+.lang {
+  color: black;
+  font: 14px/40px Arial, Helvetica, sans-serif;
+  list-style-position: inside;
+}
+
+.aboutme {
+  list-style-position: inside;
+  text-align: center;
+  margin: auto 2%;
+}
+
+
+.language {
+  font: 14px/40px Arial, Helvetica, sans-serif;
+  display: inline-block;
+  white-space: normal;
+  vertical-align: middle;
+  text-align: left;
+}
+
+.txt-right {
+  color: black;
+  font: 14px/30px Arial, Helvetica, sans-serif;
+  text-align: left;
+  list-style-position: inside;
+
+}
+
+.ed {
+  color: black;
+  font: 14px/30px Arial, Helvetica, sans-serif;
+  text-align: left;
+  list-style-position: inside;
+  margin: auto;
+}
+
+.code {
+  color: black;
+  font: 14px/30px Arial, Helvetica, sans-serif;
+  margin: auto 5px;
+}
+
+h1 {
+  padding: 12%;
+  font: 50px Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  margin: 5%;
+}
+
+.foot {
+  width: 70px;
+  height: 70px;
+  margin: 40px;
+}
+
+.name {
+  float: left;
+  margin: 40px;
+}
+
+.link-box {
+  display: block;
+  text-align: center;
+}
+
+.right {
+  border-left: thin solid #ccc
+}
+
+.left {
+  border-left: 0
+}
+
+
+
+
+.contact {
+  margin-top: 10%;
+}
+
+.hard-skills {
+  display: inline-block;
+  vertical-align: top;
+  margin: 5%;
+}
+
+.soft-skills {
+  display: inline-block;
+  margin: 5%;
+}
+
+.skillbox {
+  text-align: center;
+}
+
+
+.project {
+  text-decoration: underline;
+  text-align: center;
+  color: black;
+  font: 14px/30px Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
